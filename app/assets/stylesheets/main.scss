@@ -1,0 +1,24 @@
+body, html {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-image: image-url('live-background.jpg');
+  background-size: cover;
+}
+
+footer {
+	text-align: center;
+	padding: 50px 0 10px 0;
+	img {
+		padding: 10px;
+	}
+}
+h1 {
+	float: left;
+}
+h2 {
+	float: right;
+}

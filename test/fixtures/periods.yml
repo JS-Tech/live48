@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  schedule: 2015-10-16 19:56:47
+  band: MyString
+  special: MyString
+
+two:
+  schedule: 2015-10-16 19:56:47
+  band: MyString
+  special: MyString
