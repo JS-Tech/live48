@@ -1,0 +1,38 @@
+/* http://getbootstrap.com/css/#responsive-utilities */
+/* Very Large devices */
+@media (max-width: 1435px)
+{
+  body {
+    font-size: 1em !important;
+  }
+  td.current-period {
+    font-size: 1.2em !important;
+  }
+}
+/* Large devices */
+@media (max-width: 1200px)
+{
+  body {
+    font-size: 1em !important;
+  }
+  td.current-period {
+    font-size: 1.2em !important;
+  }
+}
+
+/* Medium devices */
+@media (max-width: 992px)
+{
+  body {
+    font-size: .8em !important;
+  }
+  td.current-period {
+    font-size: .9em !important;
+  }
+}
+
+/* Small devices */
+@media (max-width: 768px)
+{
+
+}
