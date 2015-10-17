@@ -1,4 +1,5 @@
-require 'CSV'
+require 'csv'
+
 namespace :periods do
 
   task :refresh => [:reset, :load]
